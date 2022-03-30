@@ -170,7 +170,7 @@ Travers, M. D. "Metaphors in Programming." Section 2.2 in _Programming with Agen
 
 ### Optional Readings
 
-Sims, K. "Evolving Virtual Creatures." _Computer Graphics_. Annual Conference Series, SIGGRAPH '94 Proceedings (1994): 15-22. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.robots.ox.ac.uk/~cvrg/trinity2002/EC/siggraph94.pdf))
+Sims, K. "Evolving Virtual Creatures." _Computer Graphics_. Annual Conference Series, SIGGRAPH '94 Proceedings (1994): 15-22. ([PDF](http://www.robots.ox.ac.uk/~cvrg/trinity2002/EC/siggraph94.pdf))
 
 
 {{< tdclose >}}
