@@ -9,6 +9,7 @@ description: In playing out the Silent Game, the intention is to provide a stage
   interactions, thereby enlightening the mechanics of creation and recognition.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-580-inquiry-into-computation-and-design-fall-2006/67a3140f7e501627946c9c0646f8282e_l2silentgamerule.pdf
 file_type: application/pdf
+parent_uid: d7618a5d-d2a0-e02b-e28a-0a3384b3b305
 resourcetype: Document
 title: l2silentgamerule.pdf
 uid: 67a3140f-7e50-1627-946c-9c0646f8282e

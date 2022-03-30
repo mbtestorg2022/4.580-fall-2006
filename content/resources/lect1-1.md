@@ -10,6 +10,7 @@ description: Metaphor is a powerful, conceptual device for structuring and think
   computation in design.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-580-inquiry-into-computation-and-design-fall-2006/4e8fd505b8d92b544471935a388b91ca_lect1.pdf
 file_type: application/pdf
+parent_uid: d7618a5d-d2a0-e02b-e28a-0a3384b3b305
 resourcetype: Document
 title: lect1.pdf
 uid: 4e8fd505-b8d9-2b54-4471-935a388b91ca
